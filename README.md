@@ -62,6 +62,7 @@ Our Colab notebook includes:
 3.	Run all cells to initialize the UI.
 4.	Enter any paper title or topic and get instant recommendations!
 
+or you can open it from Google colab : https://colab.research.google.com/drive/1e4qTAKk0hNaISq4bgELlpvMKsHXmRonZ?usp=sharing
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## 🔮 Future Plans

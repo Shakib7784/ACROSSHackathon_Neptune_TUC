@@ -72,6 +72,7 @@ Our Colab notebook includes:
 •	Implement hybrid techniques (metadata + user profiling) to recommend even when user data is sparse.
 •	Connect with arXiv, Springer, IEEE, and university libraries for live content updates.
 •	Introduce badges or learning tracks based on reading history, improving long-term user engagement.
+
 ---
 
 ## 🙌 Team Information

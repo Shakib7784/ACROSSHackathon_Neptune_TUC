@@ -76,6 +76,11 @@ or you can open it from Google colab : https://colab.research.google.com/drive/1
 
 ---
 
+## 🔮 FrontEnd part
+
+Live Demo : https://paper-recommender.vercel.app/
+Github Link : https://github.com/tanvieer/paper-recommender
+
 ## 🙌 Team Information
 1.	Hamza boughanmi(hamza.boughanmi@ieee.org) ( Team Leader )
 PHD Student

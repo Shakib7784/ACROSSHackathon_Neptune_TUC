@@ -84,3 +84,13 @@ Master’s Student
 Master’s Student
 4.	Fardina Sultana Kimi ( sultanafardii@gmail.com)
 Master’s Student
+5.	Abubakr Alwi Alshatry (Abubakralwi@gmail.com )
+Master’s Student
+
+---
+
+## 🏆 Built for:  
+**ACROSS Hackathon 2025**  
+“AI-based Tools for Research Discovery”
+
+---
